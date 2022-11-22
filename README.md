@@ -4,6 +4,8 @@
 
 We are determining whether Des Moine, Iowa can create a similar bikesharing service as New York City company CitiBike. 
 
+https://public.tableau.com/app/profile/kathy.rodriguez2213
+
 # The Results
 
 There are nine (9) visualizations for this analysis.
